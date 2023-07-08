@@ -1,4 +1,3 @@
-#About Me
 👋INTRODUCTION:
 
   -Hello there! Thank you for visiting my GitHub account. My Name is Yuvraj Singh Dua. 
