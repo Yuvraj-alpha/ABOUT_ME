@@ -8,6 +8,7 @@
  
   -Feel free to explore my repositories and projects to get a glimpse of my work.
 
+
 🧩SKILLS AND EXPERTISE:
 
   -Data analysis and visualization using tools such as R, Python, Excel, Tableau, and Power BI.
@@ -21,6 +22,7 @@
   -Strong problem-solving and critical-thinking abilities.
   
   -Effective communication and collaboration skills.
+
 
 📞CONTACT INFORMATION:
 
